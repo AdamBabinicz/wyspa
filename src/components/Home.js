@@ -124,7 +124,6 @@ const Home = () => {
           </button>
           <Popup trigger={buttonPopup15} setTrigger={setButtonPopup15}>
             <h3 style={{ fontSize: "15px" }}>{state.title15}</h3>
-            <br />
             <img src={state.img15} alt="..." /> <br />
             <span style={{ fontSize: "14px" }}>{state.p15}</span>
             <em style={{ fontSize: "11px" }}>{state.em15}</em>

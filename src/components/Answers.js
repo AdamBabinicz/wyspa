@@ -17,18 +17,19 @@ const Answers = () => {
           dramaturgicznych.
         </p>
         <p>
-          Pierwsza przedstawia chochoła, który zapowiada gości „z zaświatów”,
-          druga prezentuje spotkanie Poety z widmem Rycerza.
+          Pierwsza przedstawia <b>chochoła</b>, który zapowiada gości „z
+          zaświatów”, druga prezentuje spotkanie <b>Poety</b> z widmem
+          <b> Rycerza</b>.
         </p>
         <p>
-          Poszerzają portret psychologiczny Poety, odsłaniając jego duchowe
-          rozterki symbolicznie uosabiane przez zjawę Rycerza.
+          Poszerzają portret psychologiczny <b>Poety</b>, odsłaniając jego
+          duchowe rozterki symbolicznie uosabiane przez zjawę <b>Rycerza</b>.
         </p>
         <br />
         <h3>Analiza pierwszego fragmentu:</h3>
         <p>
-          Bohaterem jest chochoł – snop słomy służący do okrywania drzew i
-          krzewów przed zimnem.
+          Bohaterem jest <b>chochoł</b> – snop słomy służący do okrywania drzew
+          i krzewów przed zimnem.
         </p>
         <p>
           W podanej scenie zostaje upersonifikowany: mówi, wygłasza zagadkowe
@@ -45,32 +46,32 @@ const Answers = () => {
         <h3>Analiza drugiego fragmentu:</h3>
         <p>
           Rozgrywa się w konwencji romantycznego teatru grozy: świat realny,
-          którego przedstawicielem jest Poeta, przenika wizja – sen uosobiona w
-          postaci mrocznego, posępnego widma Rycerza.
+          którego przedstawicielem jest <b>Poeta</b>, przenika wizja – sen
+          uosobiona w postaci mrocznego, posępnego widma <b>Rycerza</b>.
         </p>
         <p>Bohaterowie:</p>
         <p>
-          Poeta – wydaje się zagubiony, przytłoczony nieprzewidywalnym biegiem
-          wydarzeń. Ma poczucie osaczenia przez widmo, próbuje mu się wymknąć,
-          nie rozumie słów Rycerza nakłaniającego do podjęcia czynu. Przejawia
-          słabość, wszystko bierze za urojenia, nie poddaje się sugestiom widma
-          o wielkiej roli, jaką mógłby odegrać w dziejach narodu jako poeta –
-          duchowy przywódca narodu (Łzy mnie pieką, łzy mnie pieką, czymże bym
-          ja tam być miał.)
+          <b>Poeta</b> – wydaje się zagubiony, przytłoczony nieprzewidywalnym
+          biegiem wydarzeń. Ma poczucie osaczenia przez widmo, próbuje mu się
+          wymknąć, nie rozumie słów <b>Rycerza</b> nakłaniającego do podjęcia
+          czynu. Przejawia słabość, wszystko bierze za urojenia, nie poddaje się
+          sugestiom widma o wielkiej roli, jaką mógłby odegrać w dziejach narodu
+          jako poeta – duchowy przywódca narodu (Łzy mnie pieką, łzy mnie pieką,
+          czymże bym ja tam być miał.)
         </p>
         <p>
-          Rycerz – to marzenie senne Poety (Głos jak marzeń moich piastun),
-          projekcja jego pragnień i dylematów, przybierająca postać bohatera
-          spod Grunwaldu – Zawiszy Czarnego. Uosabia on siłę, moc, której
-          brakuje Poecie. (Ja Moc: za mną, przede mną ognia kurz; po drogach, po
-          których lecę, drzewa się palą jak świece, ciskają się błyskawice).
-          Zwiastuje zwycięstwo ale także śmierć, którą każdy triumf musi być
-          okupiony (kiedy odchyla przyłbicę, ukazuje śmiertelne oblicze).
-          Przypomina bohaterowi czasy potężnej Polski Jagiellonów zdolnej do
-          heroicznego czynu. Namawia go, aby stamtąd czerpał siłę i inspirację
-          do działania. Widzi Poetę w podniosłej roli wieszcza sięgającego po
-          duchowe przywództwo, który obudzi uśpiony naród i popchnie go do
-          walki.
+          <b>Rycerz</b> – to marzenie senne <b>Poety</b> (Głos jak marzeń moich
+          piastun), projekcja jego pragnień i dylematów, przybierająca postać
+          bohatera spod Grunwaldu – Zawiszy Czarnego. Uosabia on siłę, moc,
+          której brakuje <b>Poecie</b>. (Ja Moc: za mną, przede mną ognia kurz;
+          po drogach, po których lecę, drzewa się palą jak świece, ciskają się
+          błyskawice). Zwiastuje zwycięstwo ale także śmierć, którą każdy triumf
+          musi być okupiony (kiedy odchyla przyłbicę, ukazuje śmiertelne
+          oblicze). Przypomina bohaterowi czasy potężnej Polski Jagiellonów
+          zdolnej do heroicznego czynu. Namawia go, aby stamtąd czerpał siłę i
+          inspirację do działania. Widzi <b>Poetę</b> w podniosłej roli wieszcza
+          sięgającego po duchowe przywództwo, który obudzi uśpiony naród i
+          popchnie go do walki.
         </p>
         <br />
         <h3>Wniosek:</h3>
@@ -84,8 +85,8 @@ const Answers = () => {
           nieodpowiednich predyspozycji psychicznych jak i dylematów moralnych.
           Wie, że taka poezja, o jakiej marzy, niesie ze sobą śmierć i
           zniszczenie. Marzenia rozbudzają jego wyobraźnię ale jednocześnie
-          przerastają Poetę, stając się źródłem walki wewnętrznej i konfliktów
-          moralnych.
+          przerastają <b>Poetę</b>, stając się źródłem walki wewnętrznej i
+          konfliktów moralnych.
         </p>
       </div>
       <div className="wrapper">
@@ -106,7 +107,7 @@ const Answers = () => {
           w sobie jakieś nieokreślone pragnienie czynienia rzeczy wielkich, ale
           – jak sam mówi – pospolitość skrzeczy. Jeśli będziesz o tym pamiętał,
           łatwiej zrozumiesz, dlaczego Zawisza Czarny staje się w utworze
-          symbolem pragnień i tęsknot Poety.
+          symbolem pragnień i tęsknot <b>Poety</b>.
         </p>
         <p>
           Przedstaw analizowaną scenę jako integralną część wielkiego spektaklu
@@ -120,14 +121,14 @@ const Answers = () => {
           podane fragmenty?
         </h3>
         <p>
-          Warto wspomnieć, że pierwowzorem postaci Poety był w rzeczywistości
-          Kazimierz Przerwa-Tetmajer, bard pokolenia dekadentów i jednocześnie
-          autor dramatu Zawisza Czarny.
+          Warto wspomnieć, że pierwowzorem postaci <b>Poety</b> był w
+          rzeczywistości <b>Kazimierz Przerwa-Tetmajer</b>, bard pokolenia
+          dekadentów i jednocześnie autor dramatu "Zawisza Czarny".
         </p>
         <p>
-          Zauważ wyraźne nawiązanie do konwencji II części Dziadów Adama
+          Zauważ wyraźne nawiązanie do konwencji II części "Dziadów" Adama
           Mickiewicza. W przedstawionej scenie jak i całym II akcie – jak w
-          Dziadach – czytelnik staje się świadkiem mrocznego widowiska z
+          "Dziadach" – czytelnik staje się świadkiem mrocznego widowiska z
           udziałem zjaw, które pozostawiają gościom weselnym określone
           przesłania.
         </p>
