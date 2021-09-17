@@ -1,0 +1,24 @@
+.navbar {
+  height: 10vh;
+  width: 100%;
+  background: #333;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar-links ul {
+  display: flex;
+  list-style: none;
+}
+.navbar-links ul a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 5px;
+  padding: 10px;
+  font-size: 20px;
+  transition: all 0.4s ease;
+}
+.navbar-links ul a:hover {
+  color: aqua;
+}

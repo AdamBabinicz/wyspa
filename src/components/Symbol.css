@@ -1,0 +1,19 @@
+.symbol {
+  width: 100%;
+  min-height: 80vh;
+  margin: 0 auto;
+  padding: 50px;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 50px 0;
+}
+.symbol-specialization {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  line-height: 1.5;
+}
