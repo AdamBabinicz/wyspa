@@ -98,7 +98,7 @@ const Summary = () => {
           Rozmowy weselników z przybyszami z zaświatów odkrywają ich marzenia,
           lęki oraz przypominają o bolesnych wydarzeniach z przeszłości. Na
           dziedziniec przed chatę wjeżdża <b>Wernyhora</b>, który przybywa do
-          <b>Gospodarza</b> z rozkazem, aby rozesłać wici, wzywające lud do
+          <b> Gospodarza</b> z rozkazem, aby rozesłać wici, wzywające lud do
           powstania. <b>Gospodarz</b> otrzymuje odpowiednie wskazówki i
           <b> złoty róg</b>, którego dźwięk ma w odpowiedniej chwili rozbudzić w
           sercach ludzi wolę walki. Zmęczony mężczyzna przekazuje róg
