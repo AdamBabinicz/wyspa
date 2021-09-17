@@ -34,6 +34,7 @@ export const PopupInner = styled.div`
 
   img {
     max-width: 200px;
+    margin: 5px 0;
   }
 
   @media screen and (max-width: 700px) {
