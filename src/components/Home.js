@@ -162,8 +162,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
             <h3 style={{ fontSize: "15px" }}>{state.title}</h3>
-            <br />
-            <img src={state.img0} alt="..." /> <br />
+            <img src={state.img0} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p0}</span>
             <em style={{ fontSize: "11px" }}>{state.em}</em>
             <br />
@@ -174,8 +173,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup1} setTrigger={setButtonPopup1}>
             <h3 style={{ fontSize: "15px" }}>{state.title1}</h3>
-            <br />
-            <img src={state.img1} alt="..." /> <br />
+            <img src={state.img1} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p1}</span>
             <em style={{ fontSize: "11px" }}>{state.em1}</em>
             <br />
@@ -186,8 +184,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup2} setTrigger={setButtonPopup2}>
             <h3 style={{ fontSize: "15px" }}>{state.title2}</h3>
-            <br />
-            <img src={state.img2} alt="..." /> <br />
+            <img src={state.img2} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p2}</span>
             <em style={{ fontSize: "11px" }}>{state.em2}</em>
             <br />
@@ -198,8 +195,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup3} setTrigger={setButtonPopup3}>
             <h3 style={{ fontSize: "15px" }}>{state.title3}</h3>
-            <br />
-            <img src={state.img3} alt="..." /> <br />
+            <img src={state.img3} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p3}</span>
             <em style={{ fontSize: "11px" }}>{state.em3}</em>
             <br />
@@ -210,8 +206,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup4} setTrigger={setButtonPopup4}>
             <h3 style={{ fontSize: "15px" }}>{state.title4}</h3>
-            <br />
-            <img src={state.img4} alt="..." /> <br />
+            <img src={state.img4} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p4}</span>
             <em style={{ fontSize: "11px" }}>{state.em4}</em>
             <br />
@@ -229,8 +224,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup5} setTrigger={setButtonPopup5}>
             <h3 style={{ fontSize: "15px" }}>{state.title5}</h3>
-            <br />
-            <img src={state.img5} alt="..." /> <br />
+            <img src={state.img5} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p5}</span>
             <em style={{ fontSize: "11px" }}>{state.em5}</em>
             <br />
@@ -241,8 +235,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup6} setTrigger={setButtonPopup6}>
             <h3 style={{ fontSize: "15px" }}>{state.title6}</h3>
-            <br />
-            <img src={state.img6} alt="..." /> <br />
+            <img src={state.img6} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p6}</span>
             <em style={{ fontSize: "11px" }}>{state.em6}</em>
             <br />
@@ -253,8 +246,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup7} setTrigger={setButtonPopup7}>
             <h3 style={{ fontSize: "15px" }}>{state.title7}</h3>
-            <br />
-            <img src={state.img7} alt="..." /> <br />
+            <img src={state.img7} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p7}</span>
             <em style={{ fontSize: "11px" }}>{state.em7}</em>
             <br />
@@ -265,8 +257,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup8} setTrigger={setButtonPopup8}>
             <h3 style={{ fontSize: "15px" }}>{state.title8}</h3>
-            <br />
-            <img src={state.img8} alt="..." /> <br />
+            <img src={state.img8} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p8}</span>
             <em style={{ fontSize: "11px" }}>{state.em8}</em>
             <br />
@@ -277,8 +268,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup9} setTrigger={setButtonPopup9}>
             <h3 style={{ fontSize: "15px" }}>{state.title9}</h3>
-            <br />
-            <img src={state.img9} alt="..." /> <br />
+            <img src={state.img9} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p9}</span>
             <em style={{ fontSize: "11px" }}>{state.em9}</em>
             <br />
@@ -289,8 +279,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup10} setTrigger={setButtonPopup10}>
             <h3 style={{ fontSize: "15px" }}>{state.title10}</h3>
-            <br />
-            <img src={state.img10} alt="..." /> <br />
+            <img src={state.img10} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p10}</span>
             <em style={{ fontSize: "11px" }}>{state.em10}</em>
             <br />
@@ -301,8 +290,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup11} setTrigger={setButtonPopup11}>
             <h3 style={{ fontSize: "15px" }}>{state.title11}</h3>
-            <br />
-            <img src={state.img11} alt="..." /> <br />
+            <img src={state.img11} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p11}</span>
             <em style={{ fontSize: "11px" }}>{state.em11}</em>
             <br />
@@ -320,8 +308,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup12} setTrigger={setButtonPopup12}>
             <h3 style={{ fontSize: "15px" }}>{state.title12}</h3>
-            <br />
-            <img src={state.img12} alt="..." /> <br />
+            <img src={state.img12} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p12}</span>
             <em style={{ fontSize: "11px" }}>{state.em12}</em>
             <br />
@@ -332,8 +319,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup13} setTrigger={setButtonPopup13}>
             <h3 style={{ fontSize: "15px" }}>{state.title13}</h3>
-            <br />
-            <img src={state.img13} alt="..." /> <br />
+            <img src={state.img13} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p13}</span>
             <em style={{ fontSize: "11px" }}>{state.em13}</em>
             <br />
@@ -344,8 +330,7 @@ const Home = () => {
           </p>
           <Popup trigger={buttonPopup14} setTrigger={setButtonPopup14}>
             <h3 style={{ fontSize: "15px" }}>{state.title14}</h3>
-            <br />
-            <img src={state.img14} alt="..." /> <br />
+            <img src={state.img14} alt="..." />
             <span style={{ fontSize: "14px" }}>{state.p14}</span>
             <em style={{ fontSize: "11px" }}>{state.em14}</em>
             <br />
