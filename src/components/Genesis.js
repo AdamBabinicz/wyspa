@@ -37,15 +37,16 @@ const Genesis = () => {
         <h4>Motyw wesela</h4>
         <p>
           to główna rama tematyczna dramatu, stanowiąca tło dla wszystkich
-          wydarzeń. Wesele inteligenta i&nbsp;chłopki stanowi również wymowny
-          symbol zbratania obu stanów.
+          wydarzeń. Wesele inteligenta i&nbsp;chłopki stanowi również
+          wymowny&nbsp;
+          <mark>symbol zbratania obu stanów</mark>.
         </p>
         <h4>Motyw tańca</h4>
         <p>
           taniec pojawia się w&nbsp;„Weselu” w&nbsp;różnych odsłonach,
           najbardziej istotny jest jednak <b>chocholi taniec </b>
-          z&nbsp;finałowej sceny dramatu – symbol narodowego marazmu
-          i&nbsp;bezsilności.
+          z&nbsp;finałowej sceny dramatu –&nbsp;
+          <mark>symbol narodowego marazmu i&nbsp;bezsilności</mark>.
         </p>
         <h4>Motyw ducha</h4>
         <p>
