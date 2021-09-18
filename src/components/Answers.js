@@ -13,8 +13,8 @@ const Answers = () => {
         <h3>Sceny w kontekście całego utworu:</h3>
         <p>
           Obydwie sceny pochodzą z drugiego aktu i mają charakter
-          symboliczno-wizyjny. Są dowodem nowatorstwa w dziedzinie rozwoju form
-          dramaturgicznych.
+          <b>symboliczno-wizyjny</b>. Są dowodem nowatorstwa w dziedzinie
+          rozwoju form dramaturgicznych.
         </p>
         <p>
           Pierwsza przedstawia <b>chochoła</b>, który zapowiada gości „z

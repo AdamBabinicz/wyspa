@@ -56,7 +56,7 @@ const Genesis = () => {
         <h3>Problematyka</h3>
         <p>
           „Wesele” stanowi najważniejszy młodopolski dramat. Dzieło ma charakter
-          <b>symboliczny</b>, tytułowe wesele posłużyło Wyspiańskiemu jako
+          <b> symboliczny</b>, tytułowe wesele posłużyło Wyspiańskiemu jako
           pretekst do poruszenia najważniejszych spraw narodowych. Dramat
           stanowi zatem wypowiedź na temat trudnych relacji chłopów i szlachty,
           polskich przywar, a także tragicznej historii nieudanych powstań.

@@ -9,3 +9,6 @@ body {
   font-family: "Roboto", sans-serif;
   overflow-x: hidden;
 }
+mark {
+  background: rgba(204, 204, 204, 0.52);
+}
