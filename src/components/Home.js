@@ -99,7 +99,7 @@ const Home = () => {
     em13: "wszystkiesymbole.pl/symbole-w-weselu",
     title14: "Zgromadzenie chłopów z kosami",
     img14: img14,
-    p14: "Scena ta symbolizuje gotowość chłopów do walki. Możliwe, że jest to nawiązanie do Bitwy pod Racławicami (Bitwa z 1794 pomiędzy powstańcami a Rosją; dowódcą wojsk Polskich był Tadeusz Kościuszko. W Bitwie tej brali udział kosynierzy)",
+    p14: "Scena ta symbolizuje gotowość chłopów do walki. Możliwe, że jest to nawiązanie do bitwy pod Racławicami (Bitwa z 1794 pomiędzy powstańcami a Rosją; dowódcą wojsk Polskich był Tadeusz Kościuszko. W bitwie tej brali udział kosynierzy)",
     em14: "wszystkiesymbole.pl/symbole-w-weselu",
     title15: "Dramaty Stanisława Wyspiańskiego",
     img15: img15,
